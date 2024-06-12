@@ -19,7 +19,8 @@ Program ini berfungsi untuk menjadwalkan serangkaian rapat berdasarkan ketersedi
 
 ## Cara Menjalankan Program
 1. Buka terminal dan clone repository ini
-2. Lalu pergi menuju repository lalu masukkan command `python main.py`
+2. Lalu pergi menuju repository dan navigasi ke folder src dengan `cd src`
+3. Masukkan command `python main.py` pada terminal
 
 ## Cara Menggunakan Program
 1. Masukkan input banyaknya meeting yang ingin dijadwalkan
